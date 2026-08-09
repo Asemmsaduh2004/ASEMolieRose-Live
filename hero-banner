@@ -730,8 +730,7 @@
         </div>
 
         <div class="hero-image-wrapper">
-            <img src="{{ asset('images/hero-banner.jpg') }}" alt="جولي روز" onerror="handleImgError(this)">
-        </div>
+<img src="hero-banner.jpg" alt="جولي روز" onerror="handleImgError(this)">        </div>
     </section>
 
     <!-- 4. قسم المنتجات -->
